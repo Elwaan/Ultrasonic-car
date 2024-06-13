@@ -1,3 +1,3 @@
-Autonomous Car with Obstacle Detection and Evasion
+# Autonomous Car with Obstacle Detection and Evasion
 
 This project represents the culmination of my embedded systems diploma, showcasing an autonomous car capable of detecting and evading obstacles. The car employs an ultrasonic sensor to scan its surroundings for obstacles. A servo motor rotates the ultrasonic sensor, allowing it to cover a wide range. The car moves forward using two DC motors attached to its back wheels. The entire system is controlled by an ATmega32 microcontroller, which integrates the sensor inputs and actuates the motors accordingly. This project demonstrates the practical application of embedded systems in creating intelligent and responsive robotic systems.
