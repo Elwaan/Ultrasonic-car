@@ -9,6 +9,6 @@ The car contains the following features and sensors:
 3. Wide-Angle Scanning: A servo motor rotates the ultrasonic sensor for broader coverage.
 4. Autonomous Movement: Two DC motors drive the back wheels for forward motion.
 
-# Autonmous Car Video
+# Autonomous Car Video
 
 https://github.com/user-attachments/assets/b3e2c81d-6a15-440e-9aca-3787f77d7af6
