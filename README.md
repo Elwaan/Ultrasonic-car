@@ -1,7 +1,8 @@
 # Autonomous Obstacle-Avoiding Car
 
 This project is the final outcome of our embedded systems diploma at Amit, showcasing an autonomous car that detects and avoids obstacles in real time.
-Features:
+
+The car contains the following features and sensors:
 
 1. Microcontroller: An ATmega32 microcontroller processes sensor inputs and actuates the motors accordingly.
 2. Obstacle Detection: Uses an ultrasonic sensor to scan the surroundings.
